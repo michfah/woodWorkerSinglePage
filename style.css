@@ -1,0 +1,82 @@
+       
+       .navbar {
+          opacity: 0.9;
+       }
+       .navbar-brand {
+            font-size: 22px;
+        }
+        .navbar-fb {
+            margin-left: 10px;
+        }
+        li {
+            font-family: 'Poiret One', cursive;
+            font-weight: 500;
+            font-size: 18px;
+        }
+        #homePage {
+          background-image:url("images/darkwood.jpg");
+          width: 100%;
+          background-size: cover;
+        }
+        #topRow {
+          margin-top:60px;
+          text-align:center;
+        }
+        #topRow h1 {
+          font-family: 'Poiret One', cursive;
+          color: #F8F8F8;
+          font-size: 60px;
+        }
+        .lead {
+          font-family: 'Signika', sans-serif;
+          margin-top: 40px;
+          color: #F8F8F8;
+          font-size: 20px;
+        }
+        .marginTop {
+          margin-top: 15px;
+        }
+        body {
+          background-image:url("crossword.png");
+        }
+        .input-group[class*="col-"] {
+          padding-right: 15px;
+          padding-left: 15px;
+        }
+        .scrollHeader {
+          margin-top: 40px;
+        }
+        .contentContainer {
+          height: 600px;
+        }
+        #fbIcon {
+          margin-top: 5px;
+          margin-left: 10px;
+        }
+        .messageAction {
+            font-weight: 600;
+            margin-bottom: 40px;
+        }
+        #contact {
+            margin-bottom: 50px;
+        }
+        .aboutIntro {
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+        .quoteContainer {
+            border: solid 1px #cbcbcb;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: #F8F8F8;
+        }
+        .pullQuote {
+            font-size: 18px;
+            font-style: italic;
+        }
+        .quoteSource {
+            float: left;
+            font-size: 16px;
+            color: #646464;
+        }
+        
